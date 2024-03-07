@@ -31,23 +31,23 @@ Next, we imported the data into Tableau.
 I analyzed total trips in two categories: user analysis, which is described by time and gender, and station analysis, which is described by geographic map and time. In each analysis, you can filter data by age, month, year, and trip duration.
 
 The homepage displays the total goals of this analysis, which are divided into different categories, along with a summary of each dashboard.
-![0](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/bdd032ef-0811-42e2-9467-7b688c4c97ed)
+![0](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/c8a0f38f-8075-4c41-94c7-5c2b4393a362)
 
 This dashboard analysis illustrates the number of trips taken by users, categorizing them based on user types across various years, months, and days.
-![1](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/11dc9533-36ab-483b-a8f4-c14cbee672b4)
+![1](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/54b8ddb9-3ab5-48c7-a721-a6de80baa883)
 The analysis reveals a decline in trip numbers from 2018 to 2020. Notably, weekend trips, especially on Sundays when individuals usually have more leisure time, exhibit lower trips compared to weekdays. August consistently registers higher trip volumes than other months. Moreover, there's a noticeable downtrend in subscriber numbers over the years.
 
 
 This dashboard presents gender analysis across various locations, months, and age groups.
-![2](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/8b62afcd-e4ef-4c3c-aebe-bef2ebe2b81f)
+![2](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/9d991cf7-4e4f-482c-bdc9-f6134449784d)
 Women exhibit higher participation rates in Citibike usage compared to men, with women also demonstrating longer trip durations on average. But among the top 10 stations, where many people go, more men choose to ride than women.
 
 This dashboard displays the top 10 start and end station names along with their geographical maps, filtered by month, year, and trip duration.
-![3](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/022859c7-45fa-4c90-90ad-f72787ed390d)
+![3](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/f7b1bcb6-deb4-416d-bae5-9ea506eb0930)
 We noticed that the top station for both start and end points remained consistent over the three years. Additionally, these stations tend to have longer trip durations compared to others.
 
 This dashboard focuses on start station names, filtered by trip duration across different month, years, hours, and weekdays.
-![4](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/f31a4c6b-cb30-4d25-9e51-1ac689e8b574)
+![4](https://github.com/TinaDhn/Tableau-challenge/assets/147674963/38bea045-a870-4fb9-a89d-f0a1c75106c2)
 This analysis reveals the peak hours at various locations on different days.
 
 
